@@ -1,4 +1,7 @@
 notebook/
 data/
+result/
 .idea/
 .DS_Store
+utils/__pycache__/
+models/__pycache__/
